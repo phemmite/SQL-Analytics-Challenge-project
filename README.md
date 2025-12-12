@@ -25,7 +25,7 @@ Document SQL queries clearly with business explanations
 
 🗂 Dataset Used
 
-Brazilian E-Commerce Public Dataset by Olist
+Brazilian E-Commerce Public Dataset by Olist, (https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
 Available on Kaggle
 Contains multiple relational tables:
 
